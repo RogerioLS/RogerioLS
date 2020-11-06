@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rogério Lopes da Silva</h1>
+<h3 align="center">Computer Engineering student and tracing the data path from Brazil  🧑🏻‍💻</h3>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=RogerioLS alt=RogerioLS/> </p>
 
 <!--
 **RogerioLS/RogerioLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
