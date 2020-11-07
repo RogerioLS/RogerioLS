@@ -13,7 +13,7 @@ src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wo
 src=https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true alt=RogerioLS/> </p>
 
 <p align="center">
-<a href=https://linkedin.com/in/rog%C3%A9rio-lopes target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rog%C3%A9rio-lopes" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/rog%C3%A9rio-lopes-57627615b/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rog%C3%A9rio-lopes-57627615b/" height="20" width="20" /></a>
 <a href=https://www.instagram.com/rogerinholopes/?hl=pt-br target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="rogerinholopes" height="20" width="20" /></a>
 </p>
 
