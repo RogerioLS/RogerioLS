@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rogério Lopes da Silva</h1>
-<h3 align="center">Computer Engineering student and tracing the data path from Brazil  🧑🏻‍💻</h3>
+<h3 align="center">Computer Engineering student and tracing the Data Science path from Brazil  🧑🏻‍💻</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=RogerioLS alt=RogerioLS/> </p>
 
 <p align="center"><img align="center" src="https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/giphy.gif" width="480" height="480"/></p>
