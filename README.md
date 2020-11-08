@@ -6,7 +6,8 @@
 
 <p align="center"><img src=https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg alt=python width="60" height="60"/> <img 
 src=https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r.svg alt=R width="60" height="60"/> <img
-src=https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.svg alt=julia width="60" height="60"/> <img                                                                            
+src=https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.svg alt=julia width="60" height="60"/> <img                                   
+src=https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg alt=linux width="60" height="60"/> <img                                                                     
 src=https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg alt=java width="60" height="60"/> <img src=https://github.com/abranhe/programming-languages-logos/blob/master/src/ruby/ruby.svg alt=ruby width="60" height="60"/> <img
 src=https://github.com/isocpp/logos/blob/master/cpp_logo.svg alt=c++ width="60" height="60"/> <img
 src=https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/></p><p align="center"> <img
