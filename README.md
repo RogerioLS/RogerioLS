@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering student and tracing the Data Science path from Brazil  🧑🏻‍💻</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=RogerioLS alt=RogerioLS/> </p>
 
-<p align="center"><img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/></p>
+<p align="center"><img align="center" src="https://media.giphy.com/media/IMdS79sQINRAY/giphy.gif" width="480" height="377.143"/></p>
 
 <p align="center"><img src=https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg alt=python width="60" height="60"/> <img 
 src=https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r.svg alt=R width="60" height="60"/> <img
