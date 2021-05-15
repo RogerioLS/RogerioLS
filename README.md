@@ -14,7 +14,6 @@ src=https://github.com/isocpp/logos/blob/master/cpp_logo.svg alt=c++ width="60" 
 src=https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0cdbffbf4d146cc04b94b5d1d/68747470733a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6c6f676f2d6d7973716c2d313730783131352e706e67 alt=mysql width="60" height="60"/></p><p align="center"> <img
 </p>
 
-<br><br>
 <a href="https://github.com/RogerioLS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioLS&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
 </a>
@@ -22,7 +21,6 @@ src=https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0c
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 <br>
-
 
 <p align="center">
   <a href="https://linkedin.com//in/rogerio-lopes-57627615b/">
