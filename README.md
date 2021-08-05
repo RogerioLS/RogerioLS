@@ -34,8 +34,8 @@ src=https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0c
          src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" /></a>
 
 
-
 <div> 
+  
   ![Snake animation](https://github.com/RogerioLS/RogerioLS/blob/output/github-contribution-grid-snake.svg)
  
 </div>
