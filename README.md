@@ -3,15 +3,17 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=RogerioLS alt=RogerioLS/> </p>
 
-<p align="center"><img align="center" src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif" width="480" height="352.653"/></p>
+<p align="center"><img align="center" src="https://media.giphy.com/media/11e0gEWxYoSYTK/giphy.gif" width="480" height="197.333"/></p>
+
+##
 
 <p align="center"><img 
-src=https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python.svg alt=python width="60" height="60"/> <img 
-src=https://github.com/abranhe/programming-languages-logos/blob/master/src/r/r.svg alt=R width="60" height="60"/> <img
-src=https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.svg alt=julia width="60" height="60"/> <img                                   
-src=https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg alt=linux width="60" height="60"/> <img                                                       src=https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg alt=java width="60" height="60"/> <img 
-src=https://github.com/isocpp/logos/blob/master/cpp_logo.svg alt=c++ width="60" height="60"/> <img
-src=https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0cdbffbf4d146cc04b94b5d1d/68747470733a2f2f7777772e6d7973716c2e636f6d2f636f6d6d6f6e2f6c6f676f732f6c6f676f2d6d7973716c2d313730783131352e706e67 alt=mysql width="60" height="60"/></p><p align="center"> <img
+src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=python /> <img 
+src= "https://img.shields.io/badge/Julia-CC342D?style=for-the-badge&logo=julia&logoColor=white" alt=julia /> <img    
+src= "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt=R /> <img                                                                           
+src= "https://img.shields.io/badge/Linux-593D88?style=for-the-badge&logo=linux&logoColor=white" alt=linux /> <img                                                            src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=java /> <img 
+src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=c++ /> <img
+src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt=mysql /></p><p align="center"> <img
 </p>
 
 <a href="https://github.com/RogerioLS">
@@ -22,19 +24,18 @@ src=https://camo.githubusercontent.com/8462c30b67acfd5571bcfb8094f5be2d1b7ac9e0c
 </a>
 <br>
 
-<p align="center">
-  <a href="https://linkedin.com//in/rogerio-lopes-57627615b/">
-    <img align="center" alt="Rogério Lopes | Linkedin" width="24px"
-         src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/rogerinholopes/?hl=pt-br">
-    <img align="center" alt="Rogério Lopes | Instagram" width="24px"
-         src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/instagram.svg" /></a>
-  <a href="rogerio_288@hotmail.com">
-    <img align="center" alt="Rogério Lopes | OutLook" width="26px"
-         src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" /></a>
+##
+  
+ <p align="center">
+   <a href=<p align="center">
+   <a href= "https://linkedin.com//in/rogerio-lopes-57627615b/" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href= "https://www.instagram.com/rogerinholopes/?hl=pt-br" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href= "rogerio_288@hotmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
-
-<div> 
+<div>
   
   ![Snake animation](https://github.com/RogerioLS/RogerioLS/blob/output/github-contribution-grid-snake.svg)
  
