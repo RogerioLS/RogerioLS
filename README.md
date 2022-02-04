@@ -26,6 +26,7 @@ src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&l
 
 ##
   
+  
  <p align="center">
    <a href=<p align="center">
    <a href= "https://linkedin.com//in/rogerio-lopes-57627615b/" target="_blank">
