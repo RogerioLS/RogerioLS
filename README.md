@@ -11,7 +11,7 @@
 src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=python /> <img 
 src= "https://img.shields.io/badge/Julia-CC342D?style=for-the-badge&logo=julia&logoColor=white" alt=julia /> <img    
 src= "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt=R /> <img                                                                           
-src= "https://img.shields.io/badge/Linux-593D88?style=for-the-badge&logo=linux&logoColor=white" alt=linux /> <img                                                            src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=java /> <img 
+src= "https://img.shields.io/badge/Linux-593D88?style=for-the-badge&logo=linux&logoColor=white" alt=linux /> <img                                                             src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=java /> <img 
 src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=c++ /> <img
 src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt=mysql /></p><p align="center"> <img
 </p>
@@ -24,9 +24,10 @@ src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&l
 </a>
 <br>
 
-##
-  
-  
+<img align="right" alt="littleEar" height="200" src="https://github.com/RogerioLS/RogerioLS/blob/main/foto_little.png">
+ 
+#  
+
  <p align="center">
    <a href=<p align="center">
    <a href= "https://linkedin.com//in/rogerio-lopes-57627615b/" target="_blank">
@@ -35,8 +36,10 @@ src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&l
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href= "rogerio_288@hotmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
+   <a href = "rogerio.mac.idb@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
+ 
   
   ![Snake animation](https://github.com/RogerioLS/RogerioLS/blob/output/github-contribution-grid-snake.svg)
  
