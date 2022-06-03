@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rogério Lopes da Silva</h1>
-<h3 align="center">Computer Engineering and tracing the Data Science path from Brazil &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
+<h3 align="center">Computer Engineering and tracing the Data Science path from Brazil &nbsp</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=RogerioLS alt=RogerioLS/> </p>
 
 <p align="center"><img align="center" src="https://media.giphy.com/media/11e0gEWxYoSYTK/giphy.gif" width="480" height="197.333"/></p>
