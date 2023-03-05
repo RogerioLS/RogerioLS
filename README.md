@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rogério Lopes da Silva</h1>
+<h1 align="center">Hi👋, I'm Rogério Lopes da Silva</h1>
 <h3 align="center">Computer Engineering and Data Science from Brazil &nbsp</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=RogerioLS alt=RogerioLS/> </p>
 
