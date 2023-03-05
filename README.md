@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering and tracing the Data Science path from Brazil &nbsp</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=RogerioLS alt=RogerioLS/> </p>
 
-<p align="center"><img align="center" src="https://media.giphy.com/media/11e0gEWxYoSYTK/giphy.gif" width="480" height="197.333"/></p>
+<p align="center"><img align="center" src="https://media0.giphy.com/media/uvoECTG2uCTrG/giphy.gif?cid=ecf05e47aa6x89o3jm6bk2y3yirhlwdsa7bq2dzotsprfi1k&rid=giphy.gif&ct=g" width="500" height="357.143"/></p>
 
 ##
 
