@@ -6,13 +6,13 @@
 
 ##
 
-<p align="center"><img 
-src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=python /> <img 
-src= "https://img.shields.io/badge/Julia-CC342D?style=for-the-badge&logo=julia&logoColor=white" alt=julia /> <img    
-src= "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt=R /> <img                                                                           
-src= "https://img.shields.io/badge/Linux-593D88?style=for-the-badge&logo=linux&logoColor=white" alt=linux /> <img                                                             src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=java /> <img 
-src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=c++ /> <img
-src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt=mysql /></p><p align="center"> <img
+<p align="center">
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/python.png"></code>
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/r.png"></code>
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/linux.png"></code>
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/c-plus-plus.png"></code>
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/docker.png"></code>
+<code><img height="40" src="https://img.icons8.com/dusk/64/000000/sql.png"></code>
 </p>
 
 <a href="https://github.com/RogerioLS">
@@ -30,13 +30,13 @@ src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&l
  <p align="center">
    <a href=<p align="center">
    <a href= "https://linkedin.com//in/rogerio-lopes-57627615b/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <code><img height="40" src="https://img.icons8.com/dusk/64/000000/linkedin.png"></code></a> 
    <a href= "https://www.instagram.com/rogerinholopes/?hl=pt-br" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <code><img height="40" src="https://img.icons8.com/dusk/64/000000/instagram.png"></code></a>
    <a href= "mailto:rogerio_288@hotmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+     <code><img height="40" src="https://img.icons8.com/dusk/64/000000/email.png"></code></a>
    <a href = "mailto:rogerio.mac.idb@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <code><img height="40" src="https://img.icons8.com/dusk/64/000000/gmail.png"></code></a>
 <div>
  
   
