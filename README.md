@@ -5,6 +5,7 @@
       <p align="center"> 
         <img src="https://komarev.com/ghpvc/?username=RogerioLS" alt="Profile Views"/>
         <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"/>
+        <img src="https://github.com/RogerioLS/RogerioLS/actions/workflows/cobrinha.yml/badge.svg"/>
       </p>
       <p>
         🎓 <strong>Education:</strong><br>
