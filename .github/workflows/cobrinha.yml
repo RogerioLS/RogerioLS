@@ -1,11 +1,6 @@
 name: Serpent Generate
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches: [ main ]
   schedule: # Executa a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch:
