@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Serpent Generate
 
 on:
   schedule: # execute every 12 hours
