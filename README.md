@@ -28,13 +28,42 @@
 
 ## 📊 GitHub Stats  
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RogerioLS&theme=tokyonight" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RogerioLS&theme=tokyonight" />
 </p>
 
+## 🗂️ Highlight Projects
 
----
-<div>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/RogerioLS/TCC_MLOPS_UFSCAR_CAR_PLATE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerioLS&repo=TCC_MLOPS_UFSCAR_CAR_PLATE&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/RogerioLS/Minishell-42sp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerioLS&repo=Minishell-42sp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/RogerioLS/Scikit-Learn">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerioLS&repo=Scikit-Learn&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/RogerioLS/RogerioLS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RogerioLS&repo=RogerioLS&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+<div align="center">
   
   ![Snake animation](https://github.com/RogerioLS/RogerioLS/blob/output/github-contribution-grid-snake.svg)
   
