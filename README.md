@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioLS&langs_count=10&layout=compact&size_weight=0.3&count_weight=0.3&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioLS&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -71,7 +71,11 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/RogerioLS/RogerioLS/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
   
 </div>
 <a href="#"><img align='right' src='https://github.com/RogerioLS/RogerioLS/blob/main/foto_little.png' width='55'></a>
