@@ -26,11 +26,16 @@
   </tr>
 </table>
 
-
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&theme=tokyonight" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=RogerioLS&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioLS&langs_count=10&layout=compact&size_weight=0.3&count_weight=0.3&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=RogerioLs&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ## 🗂️ Highlight Projects
