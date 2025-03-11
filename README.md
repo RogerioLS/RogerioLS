@@ -65,9 +65,7 @@
 
 <div align="center">
   
-  <picture>
   <img alt="github contribution grid snake animation" src="https://github.com/RogerioLS/RogerioLS/blob/output/github-contribution-grid-snake-dark.svg">
-  </picture>
   
 </div>
 <a href="#"><img align='right' src='https://github.com/RogerioLS/RogerioLS/blob/main/foto_little.png' width='55'></a>
