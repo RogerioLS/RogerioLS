@@ -27,10 +27,14 @@
 </table>
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioLS&langs_count=10&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight"/>
-</p>
+
+<div align="center">
+    
+| <img src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioLS&langs_count=12&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
+|:-:|:-:|
+
+</div>
+
 
 ## 🗂️ Highlight Projects
 
