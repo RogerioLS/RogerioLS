@@ -13,7 +13,7 @@
       </p>
       <p>
         🔭 <strong>I’m currently working with:</strong><br>
-        Data Science/Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+        Risk Quantitative Developer/Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
       </p>
       <p>
         🚀 <strong>Currently Working On:</strong><br>
@@ -29,11 +29,24 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-    
-| <img src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioLS&langs_count=12&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
-|:-:|:-:|
+
+  <!-- Banner com detalhes -->
+  <img height="235em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RogerioLS&theme=github_dark" alt="GitHub Summary" />
+  
+  <!-- Linha de estatísticas com duas colunas -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=RogerioLS&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioLS&langs_count=12&layout=compact&hide_border=true&theme=transparent" />
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 
 ## 🗂️ Highlight Projects
