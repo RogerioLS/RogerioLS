@@ -1,40 +1,44 @@
 <table width="100%">
-      <tr></tr>
-      <tr>
-        <td>
-          <h2 align="center">Hi 👋, I'm Rogério Lopes da Silva</h2>
-          <p align="center">
-            <img src="https://komarev.com/ghpvc/?username=RogerioLS" alt="Profile Views"/>
-            <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"/>
-            <img src="https://github.com/RogerioLS/RogerioLS/actions/workflows/cobrinha.yml/badge.svg"/>
-          </p>
-          <p>
-            💼 <strong>Currently:</strong><br>
-            Quantitative Developer — Wealth Management at <strong>ASA</strong><br>
-            🤝 <strong>Advisory:</strong> Executive Member of the AI Committee at <strong>PUC Angels</strong>
-          </p>
-          <p>
-            🎓 <strong>Completed Education:</strong><br>
-            • B.S. in Computer Engineering<br>
-            • Software Engineering @ <strong>École 42</strong><br>
-            • Specialization in Machine Learning in Production (MLOps)
-          </p>
-          <p>
-            ⏳ <strong>In Progress:</strong><br>
-            • Financial Engineering @ <strong>Poli-USP</strong><br>
-            • M.Sc. in Software Architecture @ <strong>École 42</strong>
-          </p>
-          <p>
-            🚀 <strong>Focus Areas:</strong><br>
-            Quantitative Finance (Portfolio Allocation, Risk & Automated Execution Systems), End-to-End MLOps, and High-
-  Performance Software Architecture.
-          </p>
-        </td>
-        <td>
-          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNkZTlneTY5aXFmdDVicXpwMHgxaHF2enc5cnQxaHo0dDByd3VtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Shjysy9EULgjYfXkdK/giphy.gif" width="380">
-        </td>
-      </tr>
-    </table>
+  <tr></tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h2>Hi 👋, I'm Rogério Lopes da Silva</h2>
+      <p align="center"> 
+        <img src="https://komarev.com/ghpvc/?username=RogerioLS" alt="Profile Views"/>
+        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"/>
+        <img src="https://github.com/RogerioLS/RogerioLS/actions/workflows/cobrinha.yml/badge.svg"/>
+      </p>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td width="55%">
+      <p>
+        💼 <strong>Currently:</strong><br>
+        Quantitative Developer — Wealth Management at <strong>ASA</strong><br>
+        🤝 <strong>Advisory:</strong> Executive Member of the AI Committee at <strong>PUC Angels</strong>
+      </p>
+      <p>
+        🎓 <strong>Completed Education:</strong><br>
+        • B.S. in Computer Engineering<br>
+        • Software Engineering @ <strong>École 42</strong><br>
+        • Specialization in Machine Learning in Production (MLOps)
+      </p>
+      <p>
+        ⏳ <strong>In Progress:</strong><br>
+        • Financial Engineering @ <strong>Poli-USP</strong><br>
+        • M.Sc. in Software Architecture @ <strong>École 42</strong>
+      </p>
+      <p>
+        🚀 <strong>Focus Areas:</strong><br>
+        Quantitative Finance (Portfolio Allocation, Risk & Automated Execution Systems), End-to-End MLOps, and High-Performance Software Architecture.
+      </p>
+    </td>
+    <td width="45%" align="center">
+      <img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNkZTlneTY5aXFmdDVicXpwMHgxaHF2enc5cnQxaHo0dDByd3VtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Shjysy9EULgjYfXkdK/giphy.gif">
+    </td>
+  </tr>
+</table>
 
 <table width="100%" align="center">
   <tr></tr>
