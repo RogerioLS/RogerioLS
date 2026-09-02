@@ -4,9 +4,23 @@
     <td colspan="2" align="center">
       <h2>Hi 👋, I'm Rogério Lopes da Silva</h2>
       <p align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=RogerioLS" alt="Profile Views"/>
-        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102"/>
-        <img src="https://github.com/RogerioLS/RogerioLS/actions/workflows/cobrinha.yml/badge.svg"/>
+        <img src="https://komarev.com/ghpvc/?username=RogerioLS&style=flat-square&color=58a6ff" alt="Profile Views"/>
+        <img src="https://img.shields.io/github/followers/RogerioLS?label=Followers&style=flat-square&color=58a6ff&logo=github" alt="Followers"/>
+        <img src="https://img.shields.io/github/stars/RogerioLS?label=Stars&style=flat-square&color=e3b341&logo=github" alt="GitHub Stars"/>
+        <img src="https://img.shields.io/badge/Location-São_Paulo%2C_Brazil-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+        <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source"/>
+        <img src="https://github.com/RogerioLS/RogerioLS/actions/workflows/cobrinha.yml/badge.svg" alt="Workflow Status"/>
+      </p>
+      <p align="center">
+        <a href="https://linkedin.com/in/rogerio-lopes-57627615b/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="mailto:rogerio_288@hotmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
+        </a>
+        <img src="https://img.shields.io/badge/École_42-Alumni-000000?style=flat-square&logo=42&logoColor=white" alt="École 42"/>
+        <img src="https://img.shields.io/badge/Poli--USP-Financial_Engineering-002B49?style=flat-square" alt="Poli-USP"/>
+        <img src="https://img.shields.io/badge/PUC_Angels-AI_Committee-6E40C9?style=flat-square" alt="PUC Angels"/>
       </p>
     </td>
   </tr>
